@@ -1,3 +1,15 @@
 {
-  "settingsInheritedFrom": "hvincentwss/whitesource-config@main"
+  "scanSettings": {
+    "configMode": "LOCAL",
+    "configExternalURL": "",
+    "projectToken": "",
+    "baseBranches": []
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure",
+    "displayMode": "diff"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
+  }
 }
