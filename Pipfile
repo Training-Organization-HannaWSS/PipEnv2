@@ -14,7 +14,6 @@ requests = "==2.20.0"
 Django = "==1.11.22"
 Markdown = "==3.1.1"
 Pygments = "==2.2.0"
-threadfix_api = "==1.1.1"
 
 [dev-packages]
 
