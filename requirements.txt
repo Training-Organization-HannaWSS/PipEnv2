@@ -1,4 +1,4 @@
-phonenumbers==8.9.10
+phonenumbers==8.9.11
 pytz==2018.5
 requests==2.20.0
 threadfix-api==1.1.1
